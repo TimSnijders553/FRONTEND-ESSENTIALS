@@ -1,0 +1,36 @@
+/* Hier hoef je niks mee te doen */
+*{
+    font-size:0;
+}
+
+#container{
+    width: 800px;
+    height: 500px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+/* Hieronder kun je gaan editen */
+
+#bovenkant{
+    width: 800px;
+    height: 35%;
+    background-color: lightblue;
+}
+
+#Midden{
+    width: 800px;
+    height: 20%;
+    background-color: black;
+}
+
+#onderkant{
+    width: 800px;
+    height: 35%;
+    background-color: lightblue;
+}
+#tussending{
+    width: 800px;
+    height: 5%;
+    background-color: white;
+}
