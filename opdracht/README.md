@@ -24,7 +24,7 @@ Maak een website waarin je een index.html voorziet van een navigatie menu
 
 - Het menu verwijst:
   - naar de pagina met alle vlaggen.
-  - Naar de pagina met de Mondriaan
+  - Naar de pagina met de Mondriaan 
 
 Op index.html komen de volgende zaken te staan
 
