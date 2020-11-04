@@ -14,4 +14,8 @@ if (bezoeker.leeftijd == 16) {
     document.body.style.backgroundColor = "blue";
 } else if (bezoeker.leeftijd == 18) {
     document.body.style.backgroundColor = "yellow";
+} else if (bezoeker.leeftijd == 19) {
+    document.body.style.backgroundColor = "green";
+} else if (bezoeker.leeftijd == null) {
+    document.body.style.backgroundColor = "white"; 
 }
