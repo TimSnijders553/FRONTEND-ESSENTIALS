@@ -19,3 +19,9 @@ if (bezoeker.leeftijd == 16) {
 } else if (bezoeker.leeftijd == null) {
     document.body.style.backgroundColor = "white"; 
 }
+
+document.querySelector("#test").innerHTML = (bezoeker.voornaam + " " + bezoeker.achternaam);
+
+document.querySelector("#email").innerHTML = (bezoeker.email)
+document.querySelector("#leeftijd").innerHTML = (bezoeker.leeftijd)
+document.querySelector("#woonplaats").innerHTML = (bezoeker.woonplaats)
